@@ -1,1 +1,1 @@
-add_lunch_combo cm_d850-userdebug
+add_lunch_combo bliss_d850-userdebug
